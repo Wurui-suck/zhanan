@@ -34,7 +34,7 @@ pause.addEventListener('click', () => {
 })
 let start = true
 let string =
-    `/*gui
+    `/*桂宝寒，你就是个渣男
     现在把你的龟头画出来给大家看看*/
 /*先找个地方把写代码的位置固定下*/
 #code{
@@ -283,7 +283,7 @@ let string =
 #image{
     display:block;
 }
-/*吴首楠，快点含住自己的龟头，我dnm*/
+/*桂宝寒，快点含住自己的龟头，我dnm*/
 `
 let string2 = ""
 let n = 0
